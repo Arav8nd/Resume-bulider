@@ -1,23 +1,30 @@
-# 🎓 Resume Builder for College Students
+# 🎓 Resume Wizard - Colorful Resume Builder for College Students
 
-A vibrant, interactive, and easy-to-use Resume Generator designed specifically for college students to create professional resumes with real-time preview, themes, templates, and image upload support.
-
-## 🚀 Features
-
-- 🧾 Real-time resume preview
-- 🎨 Multiple templates and color themes
-- 📷 Profile image upload
-- 💼 Sections for Education, Projects, Experience, Skills, etc.
-- 💾 Download as PDF
-- 📱 Mobile responsive
-- 🎉 Animations and smooth UI transitions
-
-## 📸 Demo
-
-👉 [Live Demo](https://your-username.github.io/resume-builder/)  
-*(You can replace this with your GitHub Pages link after uploading)*
+**Resume Wizard** is a vibrant and user-friendly web application that allows students to effortlessly build professional resumes. With multiple templates, theme customization, image uploads, and real-time previews, it’s designed to meet the needs of freshers, interns, and job seekers.
 
 ---
 
-## 📁 Project Structure
+## 🚀 Features
+
+- 🖌️ Multiple resume templates and color themes  
+- 🖼️ Upload profile photo  
+- 🧾 Live resume preview while typing  
+- 🧰 Custom sections: Education, Experience, Projects, Skills, etc.  
+- 📥 Download resume as PDF  
+- 💻 Fully responsive and mobile-friendly  
+- 🎉 Engaging animations and colorful UI  
+
+---
+
+## 🛠️ Built With
+
+- HTML5  
+- CSS3 (Flexbox, Animations, Gradients)  
+- JavaScript (DOM Manipulation, Print API)
+
+---
+
+
+
+## 📂 Folder Structure
 
